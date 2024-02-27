@@ -15,6 +15,7 @@ public class Classeprincipal {
 			System.out.println(numero * i );
 		}
 		break;
+		
 	}
 
 }
